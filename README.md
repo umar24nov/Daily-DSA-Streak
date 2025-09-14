@@ -7,7 +7,7 @@ This repository will track my daily progress, showcase problems I solve, and hel
 
 | Date       | Problem                   | Solution                     |
 | ---------- | ------------------------- | ---------------------------- |
-| 14-09-2025 | Is String Sorted          | [Code](./isSorted.cpp)      |
+| 14-09-2025 | Is String Sorted          | [Code]([./isSorted.cpp])      |
 
 
 
