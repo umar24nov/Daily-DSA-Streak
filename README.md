@@ -8,9 +8,7 @@ This repository will track my daily progress, showcase problems I solve, and hel
 | Date       | Problem                               | Solution                                           |
 | ---------- | -------------------------             | ---------------------------------------------------|
 | 14-09-2025 | String Sorted or Not.                 |[Code](./Strings/isSorted.cpp)                      |
-|15-09-2025  | replace Char of a                     |                                                    |
-             | string                                |[Code](./strings/replaceChar.cpp)                   |
-
+|15-09-2025  | replace Char of a String              [Code](./strings/replaceChar.cpp)                    |            
 
 
 
